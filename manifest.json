@@ -1,0 +1,9 @@
+{
+    "name": "demo",
+    "short_name": "demo",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "browser",
+    "scope": "/demo",
+    "start_url": "/demo"
+}
